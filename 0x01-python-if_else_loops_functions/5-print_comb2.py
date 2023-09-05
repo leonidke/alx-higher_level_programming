@@ -5,5 +5,3 @@ for i in range(100):
         print("{}".format(i))
     else:
         print(f"{i:02}",end=', ')
-    
-
